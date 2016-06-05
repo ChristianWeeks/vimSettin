@@ -1,0 +1,15 @@
+:RunProcessing	processing.txt	/*:RunProcessing*
+g:processing_doc_path	processing.txt	/*g:processing_doc_path*
+g:processing_doc_style	processing.txt	/*g:processing_doc_style*
+g:use_processing_applescript	processing.txt	/*g:use_processing_applescript*
+processing-applescript	processing.txt	/*processing-applescript*
+processing-cmd	processing.txt	/*processing-cmd*
+processing-compatibility	processing.txt	/*processing-compatibility*
+processing-contents	processing.txt	/*processing-contents*
+processing-contribution	processing.txt	/*processing-contribution*
+processing-doc	processing.txt	/*processing-doc*
+processing-intro	processing.txt	/*processing-intro*
+processing-issues	processing.txt	/*processing-issues*
+processing-syntax	processing.txt	/*processing-syntax*
+processing-variables	processing.txt	/*processing-variables*
+processing.txt	processing.txt	/*processing.txt*

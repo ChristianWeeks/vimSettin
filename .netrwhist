@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/caweeks/.vim'
+let g:netrw_dirhist_2='/home/caweeks/spring2015/809CPSC'
+let g:netrw_dirhist_3='/etc/rc0.d'
